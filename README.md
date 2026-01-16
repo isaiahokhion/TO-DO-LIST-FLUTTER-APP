@@ -1,16 +1,19 @@
-# demo
+# Daily Planner
 
 A new Flutter project.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Daily Planner allows users to:
 
-A few resources to get you started if this is your first Flutter project:
+Create daily tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Mark tasks as completed
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Edit or delete tasks
+
+Organize activities for better time management
+
+This project is ideal for beginners learning Flutter as well as developers building a clean productivity app
+
+
